@@ -8,10 +8,10 @@ Get the integer quotient for the next iteration.
 Get the remainder for the binary digit.
 Repeat the steps until the quotient is equal to 0.
 
-Decimal to binary conversion examples
-(51)10 = (110011)2
-(217)10 = (11011001)2
-(8023)10 = (1111101010111)2
+Decimal to binary conversion examples.
+(51)10 = (110011)2.
+(217)10 = (11011001)2.
+(8023)10 = (1111101010111)2.
 
 Decimal	Binary
 0	      0000
